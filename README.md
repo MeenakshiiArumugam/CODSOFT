@@ -26,3 +26,30 @@ The prototype includes the following four loading pages:
 ![image](https://github.com/MeenakshiiArumugam/CODSOFT/assets/117748864/83f00d9b-0e3a-4b7b-b0ba-c404141a4d31)
 
 ![image](https://github.com/MeenakshiiArumugam/CODSOFT/assets/117748864/d03d8904-d162-40a4-9624-c960267875b3)
+
+# TASK 2 -A Restaurant Menu
+
+## Introduction
+
+A user-friendly app for browsing menus, managing carts, and placing orders from nearby restaurants.
+
+## Features
+
+- User Authentication
+- Browse Menu
+- Restaurant Listings
+- Cart Management
+- Order Placement
+
+## Preview
+
+![image](https://github.com/MeenakshiiArumugam/CODSOFT/assets/117748864/06466f21-d054-45e8-8cea-68cd09090b7a)
+
+![image](https://github.com/MeenakshiiArumugam/CODSOFT/assets/117748864/e0949c2f-9f0e-4037-8003-53e1ac99b505)
+
+![image](https://github.com/MeenakshiiArumugam/CODSOFT/assets/117748864/f65285a5-1be6-4716-b2ca-08eea22336fa)
+
+## Prototype Links
+
+- **Figma Design File**: https://drive.google.com/file/d/1rFCaXqM50vhMgNzlCkS9DnATRt0SErFZ/view?usp=drive_link
+- **Video Preview**: https://drive.google.com/file/d/1Zji2sr3tSAc5dXORPbCrmzOQxZiYp4BC/view?usp=drive_link
