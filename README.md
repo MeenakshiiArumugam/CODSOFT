@@ -1,5 +1,5 @@
 # CODSOFT
-These are the projects that I've done for my UI/UX internship at CodSoft from 20 May 2024 to 20 April 2024.
+These are the projects that I've done for my UI/UX internship at CodSoft from 20 May 2024 to 20 June 2024.
 
 # TASK 1 - Signup/Login Page Prototype
 
@@ -53,3 +53,31 @@ A user-friendly app for browsing menus, managing carts, and placing orders from 
 
 - **Figma Design File**: https://drive.google.com/file/d/1rFCaXqM50vhMgNzlCkS9DnATRt0SErFZ/view?usp=drive_link
 - **Video Preview**: https://drive.google.com/file/d/1Zji2sr3tSAc5dXORPbCrmzOQxZiYp4BC/view?usp=drive_link
+
+# TASK 3 - A E-Commerce Website
+
+## Introduction
+
+Evaspot is a user-friendly e-commerce website designed to offer a seamless shopping experience. Users can browse products, manage their cart, and place orders effortlessly.
+
+## Features
+
+- Price Cards
+- Browse Categories
+- Dark theme
+- Cart Management
+- Order Placement
+
+## Preview
+
+![image](https://github.com/MeenakshiiArumugam/CODSOFT/assets/117748864/072125a8-3c53-4053-8aaa-712c6fe688b7)
+
+![image](https://github.com/MeenakshiiArumugam/CODSOFT/assets/117748864/d0801b4e-7b79-4975-901f-d323bf9a1db1)
+
+![image](https://github.com/MeenakshiiArumugam/CODSOFT/assets/117748864/fa084af8-d728-4cf9-b8da-834950dbb52c)
+
+## Prototype Links
+
+- **Figma Design File**: https://drive.google.com/file/d/1cEMC7IbjE81DsIeYPf7cJWK0CYFtwgtC/view?usp=sharing
+- **Video Preview**: https://drive.google.com/file/d/1zHnAjKqPNZTGcnQwPB7vZ7MQjSFOATQG/view?usp=sharing
+
